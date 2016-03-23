@@ -1,0 +1,40 @@
+.body{
+
+    background-color: white;
+
+}
+.rectangle{
+   width: 400px;
+    height: 200px;
+    background-color: #ccc;
+    margin: 200px auto;
+    position: relative;
+    overflow: hidden;
+
+}
+.circle1{
+       position: absolute;
+       background-color: #fc0;
+
+      border-radius: 50%;
+       width: 100px;
+       height: 100px;
+       left: -50px;
+       top: -50px;
+
+
+}
+
+
+.circle2{
+    position: absolute;
+    background-color: #fc0;
+
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    left: 400px;
+    top: 200px;
+;
+
+}
